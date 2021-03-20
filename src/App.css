@@ -1,0 +1,22 @@
+#btn {
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  width: 30px;
+  height: 30px;
+  padding: 0px 7px;
+  outline: none;
+}
+
+.btn-add {
+  background-color: #ccc;
+}
+.btn-remove {
+  background-color: #ccc;
+}
+#removeBTN {
+  background-color: rgb(202, 83, 83);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+}

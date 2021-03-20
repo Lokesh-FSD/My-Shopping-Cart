@@ -1,0 +1,22 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51wLuirXTuL._UY550_.jpg",
+      "name": "Shirt 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81DSJgCNwhL._UX569_.jpg",
+      "name": "Shirt 2",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51wLuirXTuL._UY550_.jpg",
+      "name": "Shirt 3",
+      "price": 150
+    }
+  ]
+}
